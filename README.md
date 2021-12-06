@@ -96,3 +96,9 @@ Para entender el modelo Dreyfus e identificar en que nivel te encuentras utiliza
 - [Software Engineer Qualification Levels: Junior, Middle, and Senior](https://hackernoon.com/software-engineer-qualification-levels-junior-middle-and-senior-f2229591df1c)
 
 **NOTA** Este template fué tomado de [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv)  y adaptado para BrightCoders.
+
+## Mi Scorecard
+
+A continuación adjunto el enlace de mi Scorecard:
+
+https://bc-may-21-ror.github.io/kata-03-scorecard-armanirmr/
