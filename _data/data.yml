@@ -15,7 +15,7 @@ sidebar:
   email: armanirmr@gmail.com
   phone: 3531390603
   website: # No agregar http://
-  linkedin: armani-buenrostro
+  linkedin: www.linkedin.com/in/armani-buenrostro
   github: armanirmr
   gitlab:
   bitbucket:
@@ -47,10 +47,10 @@ sidebar:
       link: # dejar en blanco
 
     - item: Critical thinking
-      link: #
+      link: # dejar en blanco
     
     - item: Open mind
-      link: #
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -62,7 +62,7 @@ career-profile:
 educationcomplete:
   - degree: Software Engineering
     university: University of Colima
-    time: 2018 Aug - current
+    time: 2018 - 2022
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
@@ -71,7 +71,11 @@ experiences:
     time: 2021 Mar - 2021 Dec
     company: University of Colima
     details: |
-      Internship at University of Colima where I was given the role of frontend developer. Using API endpoints and Web apps development with Vue.js, creating responsive web design with Bootstrap and also Laravel views creation with Blade templates.
+      Internship at University of Colima where I was given the role of frontend developer.
+        - Using API endpoints with Vue.js
+        - Web apps development with Vue.js
+        - Responsive web design with Bootstrap
+        - Laravel views creation with Blade templates
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
