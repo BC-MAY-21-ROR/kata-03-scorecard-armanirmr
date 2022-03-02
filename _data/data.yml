@@ -91,12 +91,15 @@ skills:
       level: 80%
 
     - name: Ruby
-      level: 40%
+      level: 60%
 
     - name: React
       level: 20%
 
     - name: Ruby on Rails
+      level: 40%
+
+    - name: PostgreSQL
       level: 20%
 
     - name: Git
